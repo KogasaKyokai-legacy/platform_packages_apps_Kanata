@@ -1,1 +1,0 @@
-# WaveOS Wallpapers

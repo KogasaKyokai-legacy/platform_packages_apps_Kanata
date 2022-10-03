@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
     Copyright (C) 2021 WaveOS
+    Copyright (C) 2022 KogasaKyokai
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -16,7 +17,6 @@
 -->
 <resources>
     <array name="wallpapers" translatable="false">
-        <item>wallpaper_0</item>
         <item>wallpaper_1</item>
         <item>wallpaper_2</item>
         <item>wallpaper_3</item>
@@ -26,13 +26,5 @@
         <item>wallpaper_7</item>
         <item>wallpaper_8</item>
         <item>wallpaper_9</item>
-        <item>wallpaper_10</item>
-        <item>wallpaper_11</item>
-        <item>wallpaper_12</item>
-        <item>wallpaper_13</item>
-        <item>wallpaper_14</item>
-        <item>wallpaper_15</item>
-        <item>wallpaper_16</item>
-        <item>wallpaper_17</item>        
     </array>
 </resources>
